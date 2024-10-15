@@ -1,0 +1,6 @@
+open file location
+inside the file location(SMSTD) 
+click path
+clear all text
+type cmd
+inside cmd type npm run dev
